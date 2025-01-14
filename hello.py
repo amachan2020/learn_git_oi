@@ -1,1 +1,1 @@
-print("ayo diah kita bermain")
+print("maaf dyah kita bermain")
